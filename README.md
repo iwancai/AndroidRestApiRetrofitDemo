@@ -5,4 +5,4 @@ The goals of this challenge is to show the data from https://jsonplaceholder.typ
 Using android studio 3.0.1, retrofit http://square.github.io/retrofit/
 
 DISCLAIMER:
-This is not final product.
+This is WIP project.
